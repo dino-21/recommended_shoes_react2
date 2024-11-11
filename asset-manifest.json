@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/recommended_shoes_react2/static/css/main.9dd145b1.css",
+    "main.js": "/recommended_shoes_react2/static/js/main.85e612bd.js",
+    "static/js/787.66627655.chunk.js": "/recommended_shoes_react2/static/js/787.66627655.chunk.js",
+    "static/media/slider.jpg": "/recommended_shoes_react2/static/media/slider.a7899a3a3928abce3b3a.jpg",
+    "index.html": "/recommended_shoes_react2/index.html",
+    "main.9dd145b1.css.map": "/recommended_shoes_react2/static/css/main.9dd145b1.css.map",
+    "main.85e612bd.js.map": "/recommended_shoes_react2/static/js/main.85e612bd.js.map",
+    "787.66627655.chunk.js.map": "/recommended_shoes_react2/static/js/787.66627655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dd145b1.css",
+    "static/js/main.85e612bd.js"
+  ]
+}
